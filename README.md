@@ -76,10 +76,12 @@ Our project roadmap includes further technological advancements to improve cyber
 ✅ Strengthening **honeypot** capabilities to capture **more cybercriminals**.  
 ✅ **Cryptocurrency Tracking & Blockchain Analysis:**
    - Use **Chainalysis & Elliptic** to trace **crypto wallets linked to illicit transactions**.
-   - Track **Bitcoin and Monero laundering patterns**.  
+   - Track **Bitcoin and Monero laundering patterns**.
+      
 ✅ **Cloud-Based Security & AI Enhancements:**
    - Deploy the solution on **AWS/Azure** for real-time threat intelligence.
    - Automate scanning, alerting, and reporting systems.
+     
 ✅ **De-Anonymization & Identification:**
    - Deploy **honeypots** on suspect `.onion` sites to trap criminals.
    - Use **Maltego & OSINT tools** to trace real identities.
