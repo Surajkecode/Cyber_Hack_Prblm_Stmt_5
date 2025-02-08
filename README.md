@@ -1,6 +1,6 @@
 # CyberHack 2025 
 
-## **Project Name:** Project_CyberHack  
+## **Project Name:** Dark Web Surveillance: Identifying Child Exploitation Offenders
 **Team Name:** Dark Slayer  
 
 ## **Problem Statement**
@@ -20,14 +20,14 @@ The dark web is widely misused for illicit activities, including the distributio
 
 ![image](https://github.com/user-attachments/assets/3142b1d7-9e6d-4863-8dd6-751fec7f837a)
 
-```
+
 
 ### 📍 **2. Data Collection (Dark Web Crawling)**
 - Use **Scrapy** and **Selenium** to scrape `.onion` websites.
 - Route traffic through **127.0.0.1:9150** (Tor proxy) for anonymity.
 - Extract data and store it in structured formats.
 
-```
+``
  ![image](https://github.com/user-attachments/assets/20150ca7-d8b0-4dff-aa95-29ecbea9c1c9)
 ---
 
@@ -41,9 +41,7 @@ The dark web is widely misused for illicit activities, including the distributio
 
 ![image](https://github.com/user-attachments/assets/54f88bb2-9a1d-40f5-ac4e-a7ea68aa75d5)
 
-```
-
----
+`
 
 ### 📍 **4. Network Monitoring & Traffic Analysis**
 - **Deep Packet Inspection (DPI):** Detect hidden data exchanges and encrypted transactions.
@@ -53,10 +51,9 @@ The dark web is widely misused for illicit activities, including the distributio
 - Identify **IP leaks, VPN usage, and TOR node correlations**.
 - Perform deep packet inspection for hidden connections.
 
-```
+
 ![image](https://github.com/user-attachments/assets/1117e60d-6854-4c8c-b9ec-3390fb925f90)
 
----
 
  ![image](https://github.com/user-attachments/assets/e2e90f88-6c33-425a-bd84-05085791af86)
 
@@ -88,14 +85,12 @@ Our project roadmap includes further technological advancements to improve cyber
    - Use **Maltego & OSINT tools** to trace real identities.
    - Apply **AI-based NLP** for chat and forum analysis.
 
----
 
 ## 🎯 **Conclusion**
 🚀 **Project_CyberHack** by **Dark Slayer** provides an innovative **dark web surveillance system** using **AI, blockchain forensics, and network monitoring**. This ensures an **effective way to track and identify criminals** misusing the dark web.  
 
 🛡 **Cybersecurity is not an option—it’s a necessity!**  
 
----
 
 📜 Licensing & Copyright
 
@@ -107,3 +102,7 @@ This project is licensed under the MIT License – you are free to use, modify, 
 🔗 **GitHub:** [https://github.com/Surajkecode](https://github.com/Surajkecode)  
 📩 **Email:** surajborkute9881392842@gmail.com (Primary Contact)  
 
+👥 Team Members
+1.Suraj Borkute
+2.Pranav Ladole
+3.Pratham Wankhade 
