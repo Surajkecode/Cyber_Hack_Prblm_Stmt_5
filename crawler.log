@@ -1,0 +1,67 @@
+2025-02-08 07:47:03,416 - INFO - \u2705 Tor process started successfully.
+2025-02-08 07:47:05,274 - INFO - \u2705 Tor is verified and working.
+2025-02-08 07:47:05,303 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000002792859B020>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 07:47:10,311 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x00000279284837A0>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 07:47:15,349 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x0000027928032480>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 07:47:15,350 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 07:53:58,375 - INFO - \u2705 Tor process started successfully.
+2025-02-08 07:54:00,552 - INFO - \u2705 Tor is verified and working.
+2025-02-08 07:54:00,579 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x0000022F874B85C0>: Failed to establish a new connection: 0xf6: Unknown error'))
+2025-02-08 07:54:05,584 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x0000022F871C96D0>: Failed to establish a new connection: 0xf6: Unknown error'))
+2025-02-08 07:54:10,593 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x0000022F87562840>: Failed to establish a new connection: 0xf6: Unknown error'))
+2025-02-08 07:54:10,594 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 07:57:05,182 - INFO - \u2705 Tor process started successfully.
+2025-02-08 07:57:07,450 - INFO - \u2705 Tor is verified and working.
+2025-02-08 07:57:10,670 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 08:00:55,937 - INFO - \u2705 Tor process started successfully.
+2025-02-08 08:00:58,062 - INFO - \u2705 Tor is verified and working.
+2025-02-08 08:01:00,902 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 08:04:57,874 - INFO - \u2705 Tor process started successfully.
+2025-02-08 08:05:00,440 - INFO - \u2705 Tor is verified and working.
+2025-02-08 08:05:02,596 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 08:48:10,794 - INFO - \u2705 Tor process started successfully.
+2025-02-08 08:48:12,259 - INFO - \u2705 Tor is verified and working.
+2025-02-08 08:48:17,779 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 08:51:28,759 - INFO - \u2705 Tor process started successfully.
+2025-02-08 08:51:30,107 - INFO - \u2705 Tor is verified and working.
+2025-02-08 08:51:31,790 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 08:57:56,930 - INFO - \u2705 Tor process started successfully.
+2025-02-08 08:57:56,934 - ERROR - \u274c Could not connect to Tor.
+2025-02-08 09:03:10,009 - INFO - \u2705 Tor process started successfully.
+2025-02-08 09:03:10,012 - ERROR - \u274c Could not connect to Tor.
+2025-02-08 09:40:07,980 - INFO - \u2705 Tor process started successfully.
+2025-02-08 09:40:12,319 - INFO - \u2705 Tor is verified and working.
+2025-02-08 09:40:12,324 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x00000274A1E131A0>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 09:40:17,349 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x00000274BC9FF830>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 09:40:22,358 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x00000274BB025FA0>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 09:40:22,360 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 09:41:10,268 - INFO - \u2705 Tor process started successfully.
+2025-02-08 09:41:12,350 - INFO - \u2705 Tor is verified and working.
+2025-02-08 09:41:12,368 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000002875DC121E0>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 09:41:17,396 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000002875F60F680>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 09:41:22,417 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000002875F932C00>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 09:41:22,419 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 09:41:59,798 - INFO - \u2705 Tor process started successfully.
+2025-02-08 09:42:02,171 - INFO - \u2705 Tor is verified and working.
+2025-02-08 09:42:02,176 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000002155D14DBB0>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 09:42:07,183 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000002155D123800>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 09:42:12,189 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000002155ED428D0>: Failed to establish a new connection: 0x01: General SOCKS server failure'))
+2025-02-08 09:42:12,190 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 09:45:33,478 - INFO - \u2705 Tor process started successfully.
+2025-02-08 09:45:35,568 - INFO - \u2705 Tor is verified and working.
+2025-02-08 09:45:35,570 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x0000017D71CEAC90>: Failed to establish a new connection: 0xf6: Unknown error'))
+2025-02-08 09:45:40,581 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x0000017D70609100>: Failed to establish a new connection: 0xf6: Unknown error'))
+2025-02-08 09:45:45,605 - ERROR - \u274c Request failed: SOCKSHTTPConnectionPool(host='3g2upl4pq6kufc4m.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x0000017D71D735C0>: Failed to establish a new connection: 0xf6: Unknown error'))
+2025-02-08 09:45:45,607 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 09:46:18,444 - INFO - \u2705 Tor process started successfully.
+2025-02-08 09:46:20,427 - INFO - \u2705 Tor is verified and working.
+2025-02-08 09:46:24,992 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 09:55:48,929 - INFO - \u2705 Tor process started successfully.
+2025-02-08 09:55:50,980 - INFO - \u2705 Tor is verified and working.
+2025-02-08 09:55:57,042 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 11:46:28,325 - INFO - \u2705 Tor process started successfully.
+2025-02-08 11:46:34,043 - INFO - \u2705 Tor is verified and working.
+2025-02-08 11:46:38,104 - INFO - \U0001f6d1 Tor process stopped.
+2025-02-08 11:49:16,645 - INFO - \u2705 Tor process started successfully.
+2025-02-08 11:49:19,557 - INFO - \u2705 Tor is verified and working.
+2025-02-08 11:49:21,163 - INFO - \U0001f6d1 Tor process stopped.
