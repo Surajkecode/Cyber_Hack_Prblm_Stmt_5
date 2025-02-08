@@ -1,4 +1,4 @@
-# CyberHack 2025 
+# CyberHack 2025 (Competition)
 
 ## **Project Name:** Dark Web Surveillance: Identifying Child Exploitation Offenders
 **Team Name:** Dark Slayer  
